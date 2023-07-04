@@ -73,12 +73,8 @@ STRIPE_API_KEY=
 ```
 
 
-## Authors
-
-- [@Sarthak-ONS](https://www.github.com/Sarthak-ONS)
-
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sarthak@sarthakag.dev
+If you have any feedback, please reach out to us at amishaverma2805@gmail.com
 
